@@ -23,7 +23,7 @@ Montagem do projeto
 
 # Especificacao Tecnica
 O desenvolvimento do codigo foi utilizado a IDE Arduino e a linguagem C++. Para o desenvolvimento sistemico, fora utilizados as seguintes bibliotecas, disponiveis na IDE do Arduino:
-* <Servo.h> - Biblioteca responsavel pelo acionamento e gerenciamento do componente Servo 9Gç
+* <Servo.h> - Biblioteca responsavel pelo acionamento e gerenciamento do componente Servo 9G;
 * <AdafruitIO_WiFi.h> - Biblioteca responsavel por realizar a conexao via Wireless e tambem por conectar ao servidor AdaFruitIO, este que realiza a comunicacao via protocolo MQTT.
 
 O acionamento remoto via protocolo MQTT foi realizado atraves do browser (Google Chrome), via site do AdafruitIO, este que disponibiliza um dashboard a ser montado conforme a demanda do projeto.
