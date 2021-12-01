@@ -1,6 +1,6 @@
 # Lixeira inteligente
 
-# Informacoes gerais
+# Informações gerais
 * Universidade Presbiteriana Mackenzie 
 * Nome: Allan Lopes Ferreira
 * TIA: 20009399 
