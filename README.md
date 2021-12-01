@@ -30,7 +30,7 @@ Este projeto/artigo científico é a estruturação de uma pesquisa relacionada 
 - 2 Protoboard 400 pontos;
 - 1 Bateria 9v
 
-# Especificacao Tecnica
+# Especificação Técnica
 O desenvolvimento do codigo foi utilizado a IDE Arduino e a linguagem C++. Para o desenvolvimento sistemico, fora utilizados as seguintes bibliotecas, disponiveis na IDE do Arduino:
 * <Servo.h> - Biblioteca responsavel pelo acionamento e gerenciamento do componente Servo 9G;
 * <AdafruitIO_WiFi.h> - Biblioteca responsavel por realizar a conexao via Wireless e tambem por conectar ao servidor AdaFruitIO, este que realiza a comunicacao via protocolo MQTT.
