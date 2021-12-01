@@ -10,8 +10,14 @@
 # Descrição do Projeto
 Este projeto;artigo científico é a estruturação de uma pesquisa relacionada a Internet das Coisas (IoT) e sua aplicação na área residencial e/ou comercial. Após análise, vive-se numa mudança de hábitos e paradigmas por conta da pandemia causada pelo Corona vírus (sars-cov-2), obrigando a sociedade como todo a reeducação de alguns hábitos, banais, como abrir um cesto de lixo. O estudo propõe aplicação pratica de automação de abertura de cestos de lixo, assim, evitando o contato e possível contaminação – residencial e até em hospitais, utlizando tambem o protocolo MQTT para acionamento remoto.
 
-Montagem do projeto
-(colocar imagem)
+# Montagem dos componentes do projeto
+![20211201_091814](https://user-images.githubusercontent.com/20358075/144297219-fc7a58e6-421c-4d06-acd7-2e90a7764980.jpg)
+
+# Resultado final
+![20211201_154604](https://user-images.githubusercontent.com/20358075/144297308-f61f9072-cd69-4af4-90e5-1301d3276e25.jpg)
+
+![20211201_154620](https://user-images.githubusercontent.com/20358075/144297328-330982b2-1f23-4b68-87c6-938d5ee2d0fb.jpg)
+
 
 # Componentes utilizados
 - 1 Cesto de lixo basculante;
