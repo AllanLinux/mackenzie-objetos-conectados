@@ -8,7 +8,7 @@
 * Profº: Dr. Wilian Franca Costa 
 
 # Descrição do Projeto
-Este projeto;artigo científico é a estruturação de uma pesquisa relacionada a Internet das Coisas (IoT) e sua aplicação na área residencial e/ou comercial. Após análise, vive-se numa mudança de hábitos e paradigmas por conta da pandemia causada pelo Corona vírus (sars-cov-2), obrigando a sociedade como todo a reeducação de alguns hábitos, banais, como abrir um cesto de lixo. O estudo propõe aplicação pratica de automação de abertura de cestos de lixo, assim, evitando o contato e possível contaminação – residencial e até em hospitais, utlizando tambem o protocolo MQTT para acionamento remoto.
+Este projeto/artigo científico é a estruturação de uma pesquisa relacionada a Internet das Coisas (IoT) e sua aplicação na área residencial e/ou comercial. Após análise, vive-se numa mudança de hábitos e paradigmas por conta da pandemia causada pelo Corona vírus (sars-cov-2), obrigando a sociedade como todo a reeducação de alguns hábitos, banais, como abrir um cesto de lixo. O estudo propõe aplicação pratica de automação de abertura de cestos de lixo, assim, evitando o contato e possível contaminação – residencial e até em hospitais, utlizando tambem o protocolo MQTT para acionamento remoto.
 
 # Montagem dos componentes do projeto
 
