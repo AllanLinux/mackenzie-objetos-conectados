@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lixeira inteligente
 
 # Informações gerais
